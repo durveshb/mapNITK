@@ -23,7 +23,7 @@ function init() {
     1,
     1000
   );
-  camera.position.set(0, 500, 0);
+  camera.position.set(400, 200, 0);
 
   // controls
 
